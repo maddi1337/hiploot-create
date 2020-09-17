@@ -1,0 +1,9 @@
+## Interface: 11305
+## Title: |cffff00ff <HiP>|r Classic Loot Prio
+## Author: Brainheal
+## Version: 1.0.0
+
+loot_table.lua
+main_functions.lua
+loot_prio_hook.lua
+ver.lua
